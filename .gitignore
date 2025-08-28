@@ -1,0 +1,26 @@
+# Python
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+
+# Virtual environment
+.venv/
+env/
+venv/
+*.egg-info/
+
+# Django stuff
+db.sqlite3
+media/
+staticfiles/
+
+# Models / large files
+*.pth
+*.pt
+*.h5
+*.onnx
+
+# OS
+.DS_Store
+Thumbs.db
